@@ -57,5 +57,25 @@
     "lat": 16.803169,
     "lng": 120.325469
       
+  },
+     {
+    "id": 215,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/8f/1e/80/baluarte-watch-tower.jpg",
+    "price": 150,
+    "priceCurrency": "PHP",
+    "lat": 16.856968,
+    "lng": 120.372883
+     
+  },
+     {
+    "id": 210,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/8f/1e/80/baluarte-watch-tower.jpg",
+    "price": 150,
+    "priceCurrency": "PHP",
+    "lat": 16.856968,
+    "lng": 120.372883
+     
   }
 ]
