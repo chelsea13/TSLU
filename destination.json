@@ -40,12 +40,13 @@
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/8f/1e/80/baluarte-watch-tower.jpg",
+    "price": 150,
+    "priceCurrency": "PHP",
+    "lat": 16.856968,
+    "lng": 120.372883
+     
   },
   {
     "id": 211,
