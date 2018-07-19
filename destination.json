@@ -10,12 +10,13 @@
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
+    "name": "Pugad",
+    "imageUrl": "https://lh6.googleusercontent.com/-ZZu06kiK0fU/WE2k3P9iDmI/AAAAAAAAAYA/HAuhNjEA2JIboxYfv60qjARqkXZOMji3QCLIB/s1600-w400/",
     "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "priceCurrency": "PHP",
+    "lat": 16.336739,
+    "lng": 120.478823
+     
   },
   {
     "id": 201,
