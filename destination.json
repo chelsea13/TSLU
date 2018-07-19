@@ -50,11 +50,12 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
-    "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "name": "Immuki Island",
+    "imageUrl": "http://www.balaoanlaunion.gov.ph/wp-content/uploads/2017/09/IMMUKI-ISLAND.jpg",
+    "price": 120,
+    "priceCurrency": "PHP",
+    "lat": 16.803169,
+    "lng": 120.325469
+      
   }
 ]
