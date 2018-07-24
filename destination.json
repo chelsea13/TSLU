@@ -28,6 +28,16 @@
     "lng": 120.319814
        
   },
+    {
+    "id": 155,
+    "name": "Agoo Church",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.324962,
+    "lng": 120.355102
+       
+  },
   {
     "id": 201,
     "name": "Tangadan Falls",
