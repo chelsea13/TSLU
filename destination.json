@@ -22,7 +22,7 @@
     "id": 201,
     "name": "Tangadan Falls",
     "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
-    "price": 150,
+    "price": 80,
     "priceCurrency": "PHP",
     "lat": 16.643948,
     "lng": 120.448791
@@ -42,7 +42,7 @@
     "id": 210,
     "name": "Baluarte Watch Tower",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/8f/1e/80/baluarte-watch-tower.jpg",
-    "price": 150,
+    "price": 90,
     "priceCurrency": "PHP",
     "lat": 16.856968,
     "lng": 120.372883
@@ -52,7 +52,7 @@
     "id": 211,
     "name": "Immuki Island",
     "imageUrl": "http://www.balaoanlaunion.gov.ph/wp-content/uploads/2017/09/IMMUKI-ISLAND.jpg",
-    "price": 120,
+    "price": 100,
     "priceCurrency": "PHP",
     "lat": 16.803169,
     "lng": 120.325469
