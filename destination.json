@@ -18,6 +18,16 @@
     "lng": 120.478823
      
   },
+     {
+    "id": 149,
+    "name": "Halo Halo de iloko",
+    "imageUrl": "http://4.bp.blogspot.com/-qKXCS7ZTw3Y/T7GtfDRNRzI/AAAAAAAAGFs/g94N0_D0F-4/s1600/DSCN1832.jpg",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.617592,
+    "lng": 120.319814
+       
+  },
   {
     "id": 201,
     "name": "Tangadan Falls",
