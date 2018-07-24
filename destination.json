@@ -60,12 +60,13 @@
   },
      {
     "id": 215,
-    "name": "Baluarte Watch Tower",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/8f/1e/80/baluarte-watch-tower.jpg",
-    "price": 150,
+    "name": "San Juan",
+    "imageUrl": "http://2.bp.blogspot.com/-36kNZ6wz5U8/UcFhGnBBYtI/AAAAAAAAB0Y/N61QTERVv2Q/s640/surfing-in-la-union.JPG",
+    "price": 30,
     "priceCurrency": "PHP",
-    "lat": 16.856968,
-    "lng": 120.372883
+    "lat": 16.658783,
+    "lng": 120.321403
+        
      
   },
      {
