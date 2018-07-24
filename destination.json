@@ -81,6 +81,18 @@
      
   },
      {
+    "id": 217,
+    "name": "Macho Temple",
+    "imageUrl": "https://www.travelbook.ph/blog/cms/wp-content/uploads/old-site/gallery/12_la_union_san_fernando_ma_cho_temple_betty_tianco.jpg",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.621501,
+    "lng": 120.317520
+        
+       
+     
+  },
+     {
     "id": 218,
     "name": "House",
     "imageUrl": "https://raw.githubusercontent.com/chelsea13/TSLU/master/bahay.jpg",
