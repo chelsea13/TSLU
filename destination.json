@@ -69,6 +69,17 @@
         
      
   },
+      {
+    "id": 216,
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b4/7d/aa/pindangan-ruins.jpg",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.588499,
+    "lng": 120.314626
+       
+     
+  },
      {
     "id": 218,
     "name": "House",
