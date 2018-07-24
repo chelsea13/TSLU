@@ -90,10 +90,22 @@
     "lng": 120.317520
         
        
-     
+ 
   },
      {
     "id": 218,
+    "name": "Bahay na Bato",
+    "imageUrl": "https://cdn.looloo.com/photos/reviews/303168/large_square/c149e9fe-6edd-41b1-8c3f-5dd3332994f0.jpg?1492175633",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.847520,
+    "lng": 120.351719
+        
+       
+ 
+  },
+     {
+    "id": 219,
     "name": "House",
     "imageUrl": "https://raw.githubusercontent.com/chelsea13/TSLU/master/bahay.jpg",
     "price": 30,
